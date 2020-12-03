@@ -146,13 +146,13 @@ Webflow.require('ix2').init({
       },
       mediaQueries: ['main', 'medium', 'small', 'tiny'],
       target: {
-        id: 'page|slide4',
+        id: 'page|slide6',
         appliesTo: 'ELEMENT',
         styleBlockIds: [],
       },
       targets: [
         {
-          id: 'page|slide4',
+          id: 'page|slide6',
           appliesTo: 'ELEMENT',
           styleBlockIds: [],
         },
@@ -230,13 +230,13 @@ Webflow.require('ix2').init({
       },
       mediaQueries: ['main', 'medium', 'small', 'tiny'],
       target: {
-        id: 'page|slide6',
+        id: 'page|slide4',
         appliesTo: 'ELEMENT',
         styleBlockIds: [],
       },
       targets: [
         {
-          id: 'page|slide6',
+          id: 'page|slide4',
           appliesTo: 'ELEMENT',
           styleBlockIds: [],
         },
