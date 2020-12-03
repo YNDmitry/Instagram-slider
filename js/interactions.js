@@ -20,13 +20,13 @@ Webflow.require('ix2').init({
       },
       mediaQueries: ['main', 'medium', 'small', 'tiny'],
       target: {
-        id: 'page|slide1',
+        id: 'slide1',
         appliesTo: 'ELEMENT',
         styleBlockIds: [],
       },
       targets: [
         {
-          id: 'page|slide1',
+          id: 'slide1',
           appliesTo: 'ELEMENT',
           styleBlockIds: [],
         },
@@ -62,13 +62,13 @@ Webflow.require('ix2').init({
       },
       mediaQueries: ['main', 'medium', 'small', 'tiny'],
       target: {
-        id: 'page|slide2',
+        id: 'slide2',
         appliesTo: 'ELEMENT',
         styleBlockIds: [],
       },
       targets: [
         {
-          id: 'page|slide2',
+          id: 'slide2',
           appliesTo: 'ELEMENT',
           styleBlockIds: [],
         },
@@ -104,13 +104,13 @@ Webflow.require('ix2').init({
       },
       mediaQueries: ['main', 'medium', 'small', 'tiny'],
       target: {
-        id: 'page|slide3',
+        id: 'slide3',
         appliesTo: 'ELEMENT',
         styleBlockIds: [],
       },
       targets: [
         {
-          id: 'page|slide3',
+          id: 'slide3',
           appliesTo: 'ELEMENT',
           styleBlockIds: [],
         },
@@ -146,13 +146,13 @@ Webflow.require('ix2').init({
       },
       mediaQueries: ['main', 'medium', 'small', 'tiny'],
       target: {
-        id: 'page|slide6',
+        id: 'slide6',
         appliesTo: 'ELEMENT',
         styleBlockIds: [],
       },
       targets: [
         {
-          id: 'page|slide6',
+          id: 'slide6',
           appliesTo: 'ELEMENT',
           styleBlockIds: [],
         },
@@ -188,13 +188,13 @@ Webflow.require('ix2').init({
       },
       mediaQueries: ['main', 'medium', 'small', 'tiny'],
       target: {
-        id: 'page|slide5',
+        id: 'slide5',
         appliesTo: 'ELEMENT',
         styleBlockIds: [],
       },
       targets: [
         {
-          id: 'page|slide5',
+          id: 'slide5',
           appliesTo: 'ELEMENT',
           styleBlockIds: [],
         },
@@ -230,13 +230,13 @@ Webflow.require('ix2').init({
       },
       mediaQueries: ['main', 'medium', 'small', 'tiny'],
       target: {
-        id: 'page|slide4',
+        id: 'slide4',
         appliesTo: 'ELEMENT',
         styleBlockIds: [],
       },
       targets: [
         {
-          id: 'page|slide4',
+          id: 'slide4',
           appliesTo: 'ELEMENT',
           styleBlockIds: [],
         },
